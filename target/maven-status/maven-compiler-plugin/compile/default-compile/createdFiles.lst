@@ -1,0 +1,12 @@
+com\empresa\modelo\ClienteDAO.class
+com\empresa\modelo\ProductoDAO.class
+com\mycompany\empresamvc\resources\JakartaEE10Resource.class
+com\empresa\modelo\ConexionBD.class
+com\mycompany\empresamvc\JakartaRestConfiguration.class
+com\empresa\controlador\EmpleadoServlet.class
+com\empresa\modelo\Producto.class
+com\empresa\modelo\EmpleadoDAO.class
+com\empresa\modelo\Empleado.class
+com\empresa\controlador\ClienteServlet.class
+com\empresa\controlador\ProductoServlet.class
+com\empresa\modelo\Cliente.class
